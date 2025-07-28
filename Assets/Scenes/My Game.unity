@@ -364,7 +364,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 589f9af74ca65cf49b25e9f9ea736994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waveCredits: 1
+  waveCredits: 15
   enemyCount: 0
   hardCount: 0
   midCount: 0
