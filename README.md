@@ -1,2 +1,2 @@
-# Untitled dog bullet hell game.
-Learn.Unity course: Junior Programmer (Summer 2025)
+# Untitled Dog Bullet Hell Game
+Learn.Unity course: Junior Programmer (Summer 2025).
